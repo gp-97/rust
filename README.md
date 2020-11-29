@@ -1,2 +1,4 @@
 # Learning Rust
+- Basics
+- Ownership
 
