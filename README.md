@@ -1,4 +1,3 @@
-# Learning Rust
-- Basics
-- Ownership
+# Learning Rust basics
+
 
